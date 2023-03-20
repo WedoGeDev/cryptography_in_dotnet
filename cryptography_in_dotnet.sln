@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ch2_cryptographic_signatures", "ch2_cryptographic_signatures\ch2_cryptographic_signatures.csproj", "{500DD048-CD6A-4C89-9E7F-2983F966CD56}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ch3_hashing_and_salting_passwords", "ch3_hashing_and_salting_passwords\ch3_hashing_and_salting_passwords.csproj", "{28656AA1-201E-497D-84D0-8C34CFB4C76F}"
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -30,5 +32,17 @@ Global
 		{500DD048-CD6A-4C89-9E7F-2983F966CD56}.Release|x64.Build.0 = Release|Any CPU
 		{500DD048-CD6A-4C89-9E7F-2983F966CD56}.Release|x86.ActiveCfg = Release|Any CPU
 		{500DD048-CD6A-4C89-9E7F-2983F966CD56}.Release|x86.Build.0 = Release|Any CPU
+		{28656AA1-201E-497D-84D0-8C34CFB4C76F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28656AA1-201E-497D-84D0-8C34CFB4C76F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28656AA1-201E-497D-84D0-8C34CFB4C76F}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{28656AA1-201E-497D-84D0-8C34CFB4C76F}.Debug|x64.Build.0 = Debug|Any CPU
+		{28656AA1-201E-497D-84D0-8C34CFB4C76F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{28656AA1-201E-497D-84D0-8C34CFB4C76F}.Debug|x86.Build.0 = Debug|Any CPU
+		{28656AA1-201E-497D-84D0-8C34CFB4C76F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28656AA1-201E-497D-84D0-8C34CFB4C76F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28656AA1-201E-497D-84D0-8C34CFB4C76F}.Release|x64.ActiveCfg = Release|Any CPU
+		{28656AA1-201E-497D-84D0-8C34CFB4C76F}.Release|x64.Build.0 = Release|Any CPU
+		{28656AA1-201E-497D-84D0-8C34CFB4C76F}.Release|x86.ActiveCfg = Release|Any CPU
+		{28656AA1-201E-497D-84D0-8C34CFB4C76F}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
